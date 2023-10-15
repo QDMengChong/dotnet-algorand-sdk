@@ -1,3 +1,5 @@
+# 用于学习使用，是一个不错的学习密码的好东西。
+
 # Dotnet Algorand SDK
 
 The SDK version 0.2 add the support of Algorand Api 2.0 and the Indexer Api.
